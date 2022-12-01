@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(97, 86, 247) ;
+}
+
+#logo img{
+    width: 100px;
+    border-radius: 10px;
+}
+
+#logo img{
+    width: 15%;
+    border-radius: 10px;
+    border: 2px solid #fff;
+}
+
+#front img{
+    width: 100px;
+    border-radius: 10px;
+}
+
+#front img{
+    width: 15%;
+    border-radius: 10px;
+    border: 2px solid #fff;
+}
