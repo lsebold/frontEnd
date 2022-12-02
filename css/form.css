@@ -1,0 +1,34 @@
+form{
+    text-align: left;
+    margin: 2px auto;
+}
+
+.campos{ /* ele reconhece a classe que está denominada campos */
+    width: 200px;
+    height: 20px;
+    margin-top: 5px;
+    border: 3.5px #1826e7 solid;
+    border-radius: 10px;
+}
+
+.botoes{
+    font-size: 15px;
+    border: 10px solid  #1826e7;
+    margin-top:  10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 90px;
+    height: 25px;
+    border-radius: 10px;
+}
+
+.botoes:hover{
+    cursor: pointer;
+}
+
+.salvar, .cancelar{
+    color:#1826e7;
+    background: rgb(255, 255, 255);
+    border: 3.5px solid  #1826e7;
+}
+
